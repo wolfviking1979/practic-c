@@ -2,6 +2,7 @@
  * в одном файле
  * */
 #include <stdio.h>
+
 void butler(void);  /* Прототип функции в стандарте ISO/ANSI C*/
 
 int main() {
